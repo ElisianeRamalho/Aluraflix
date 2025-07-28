@@ -1,4 +1,17 @@
 body{
     background: black;
-    color:blueviolet;
+    color:rgb(117, 4, 57);
+}
+header{
+    border-bottom:solid 2px rgb(13, 150, 61) ;
+    padding: 20px;
+    font-size: 32px;
+    color:rgb(99, 34, 178);
+}
+section{
+    background: darkred;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
 }
